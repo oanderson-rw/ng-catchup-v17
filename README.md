@@ -3,6 +3,7 @@
 This is a playground project to learn and play with new Angular features from v14 through v17.
 
 Attempted new features in this project with associated Angular versions (implemented features include a checkmark ✔️):
+
 - Version 14
   - Typed reactive forms
   - `Route.title` property to change page title per route
