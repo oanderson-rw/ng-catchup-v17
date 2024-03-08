@@ -34,3 +34,8 @@ h5,
 h6 {
   font-size: var(--step-1);
 }
+
+.items-horizontal {
+  display: flex;
+  gap: var(--space-m);
+}
